@@ -6,7 +6,7 @@ An introduction to the foundations of modern operating systems with a focus on G
 
 ## [Download here](https://github.com/arm-university/Operating-Systems-Foundations-with-Linux-on-the-Raspberry-Pi/blob/main/Operating%20System%20Foundations%20with%20Linux%20on%20the%20Raspberry%20Pi_textbook.pdf)
 
-## Resource Aim
+## About this Book
 At the heart of any modern computer device sits the operating system and if the device is a smartphone, IoT node, data centre server or supercomputer, then this is very likely to be Linux.
 
 This textbook provides a practical introduction to the foundations of modern operating systems, with a focus on GNU/Linux and the Arm platform. It explains operating systems theory and concepts but grounds them in practical use through illustrative examples of their implementation in GNU/Linux, as well as making the connection with the Arm hardware supporting the OS functionality. An ideal starting point if you want to learn about operating systems but keep a practical, real-world focus.
