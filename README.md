@@ -35,7 +35,7 @@ This textbook provides a practical introduction to the foundations of modern ope
 11. Advanced Topics
 
 ## License
-You are free to fork, clone or download this book in PDF format for personal, non-commerical use only. 
+You are free to fork, clone or download this book in PDF format for personal, non-commercial use only. 
 You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
 
 ## Inclusive Language Commitment
