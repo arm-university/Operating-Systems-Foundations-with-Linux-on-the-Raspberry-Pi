@@ -5,9 +5,8 @@
 ### [Click here to download](https://github.com/arm-university/Operating-Systems-Foundations-with-Linux-on-the-Raspberry-Pi/releases/download/v2.0.0/Operating-Systems-Foundations-with-Linux-on-the-Raspberry-Pi-main.zip)
 
 ## About this Book
-Textbook by Wim Vanderbauwhede & Jeremy Singer
-
-An introduction to the foundations of modern operating systems with a focus on GNU/Linux as applied to Arm-based microcontrollers.
+- Textbook by Wim Vanderbauwhede & Jeremy Singer
+- An introduction to the foundations of modern operating systems with a focus on GNU/Linux as applied to Arm-based microcontrollers.
 
 At the heart of any modern computer device sits the operating system and if the device is a smartphone, IoT node, data centre server or supercomputer, then this is very likely to be Linux.
 
